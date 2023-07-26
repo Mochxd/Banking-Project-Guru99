@@ -1,1 +1,1 @@
-Trying to detect defects in the website and test the functionaltiy for all modules
+Trying to detect defects in the website and test the functionalty for all modules
