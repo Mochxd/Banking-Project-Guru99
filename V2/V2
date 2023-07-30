@@ -1,0 +1,17 @@
+-Developers claim to fix all bugs you reported in version 1 and have added the Balance enquiry module to version2.
+- There is a change request from the client and the SRS has changed.
+- Refer the SRS_v2 & Make changes in Test Cases.
+-Create and execute test cases for
+
+-Manager Role:
+Change Password
+Deposit
+Withdrawal
+Fund Transfer
+
+-Customer Role:
+Balance enquiry
+Fund Transfer
+Mini Statement
+Customized Statement
+Change Password
