@@ -64,5 +64,5 @@ To contribute to the project, follow these steps:
 ## Communication
 - Use [Gmail] for communication.
 
-  ## Contact
-  For questions or assistance, contact [mohamedbadrxd@gmail.com].
+## Contact
+- For questions or assistance, contact [mohamedbadrxd@gmail.com].
