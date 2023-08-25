@@ -9,7 +9,6 @@ Welcome to the Guru99 Bank Website Project repository! This project aims to crea
 - [Getting Started](#getting-started)
 - [Defect Resolution and Testing](#defect-resolution-and-testing)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Coordination](#coordination)
 - [Communication](#communication)
 - [Contact](#contact)
 
@@ -45,19 +44,29 @@ To contribute to the project, follow these steps:
 
 1. Clone the repository:
    ```shell
-   https://github.com/your-username/guru99-bank-website.git](https://github.com/Mochxd/Banking-Project-Guru99/tree/main)https://github.com/Mochxd/Banking-Project-Guru99/tree/main
+  https://github.com/Mochxd/Banking-Project-Guru99/tree/main)https://github.com/Mochxd/Banking-Project-Guru99/tree/main
 2. Set up your development environment with the required tools.
 3. Review the Software Requirements Specification (SRS) document.
 4. Identify, resolve, and log defects.
 
 ## Defect Resolution and Testing
-- Identify defects and prioritize them based on criticality.
-- Make code changes to address defects and maintain traceability.
-- Create comprehensive test cases for all website functions.
-- Execute test cases and document results in the traceability matrix.
-- Verify alignment of functionalities with the SRS document.
+1. Identify defects and prioritize them based on criticality.
+2. Make code changes to address defects and maintain traceability.
+3. Create comprehensive test cases for all website functions.
+4. Execute test cases and document results in the traceability matrix.
+5. Verify alignment of functionalities with the SRS document.
 
+## Contribution Guidelines
+1- Fork the repository and create a new branch for your work.
+2- Make code changes and document them thoroughly.
+3- Submit a pull request, referencing related issues or defects.
+4- Your pull request will be reviewed before merging.
 
+## Communication
+- Use [Gmail] for communication.
+
+  ## Contact
+  For questions or assistance, contact [mohamedbadrxd@gmail.com].
 
 
 
