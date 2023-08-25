@@ -44,7 +44,7 @@ To contribute to the project, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/Mochxd/Mohamedmostafa.github.io
+   git clone https://github.com/Mochxd/Banking-Project-Guru99
 2. Review the Software Requirements Specification (SRS) document.
 3. Identify, resolve, and log defects.
 
@@ -66,10 +66,3 @@ To contribute to the project, follow these steps:
 
   ## Contact
   For questions or assistance, contact [mohamedbadrxd@gmail.com].
-
-
-
-
-
-
-
