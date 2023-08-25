@@ -19,7 +19,7 @@ The Guru99 Bank Website Project is aimed at delivering a seamless user experienc
 ## Project Timeline and Milestones
 
 - **Days 1-2:** Setup and Familiarization
-  - Clone the repository and set up the development environment.
+  - Clone the repository.
   - Review the SRS document and identify initial defects.
 
 - **Days 3-5:** Defect Resolution and Traceability
@@ -45,7 +45,6 @@ To contribute to the project, follow these steps:
 1. Clone the repository:
    ```shell
   https://github.com/Mochxd/Banking-Project-Guru99/tree/main)https://github.com/Mochxd/Banking-Project-Guru99/tree/main
-2. Set up your development environment with the required tools.
 3. Review the Software Requirements Specification (SRS) document.
 4. Identify, resolve, and log defects.
 
