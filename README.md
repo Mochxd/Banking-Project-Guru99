@@ -45,8 +45,8 @@ To contribute to the project, follow these steps:
 1. Clone the repository:
    ```shell
    git clone https://github.com/Mochxd/Mohamedmostafa.github.io
-3. Review the Software Requirements Specification (SRS) document.
-4. Identify, resolve, and log defects.
+2. Review the Software Requirements Specification (SRS) document.
+3. Identify, resolve, and log defects.
 
 ## Defect Resolution and Testing
 1. Identify defects and prioritize them based on criticality.
