@@ -56,10 +56,10 @@ To contribute to the project, follow these steps:
 5. Verify alignment of functionalities with the SRS document.
 
 ## Contribution Guidelines
-1- Fork the repository and create a new branch for your work.
-2- Make code changes and document them thoroughly.
-3- Submit a pull request, referencing related issues or defects.
-4- Your pull request will be reviewed before merging.
+1. Fork the repository and create a new branch for your work.
+2. Make code changes and document them thoroughly.
+3. Submit a pull request, referencing related issues or defects.
+4. Your pull request will be reviewed before merging.
 
 ## Communication
 - Use [Gmail] for communication.
