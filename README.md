@@ -18,23 +18,26 @@ The Guru99 Bank Website Project is aimed at delivering a seamless user experienc
 
 ## Project Timeline and Milestones
 
-- **Days 1-2:** Setup and Familiarization
+- **Days 1-3:** SRS Analyzing and Writing Test cases
   - Clone the repository.
-  - Review the SRS document and identify initial defects.
+  - Review the SRS document and identify initial Test cases.
 
-- **Days 3-5:** Defect Resolution and Traceability
+- **Days 4-6:** Execute Test cases and Bug tracking for V1
+  - Execute Test cases.
   - Address defects through code changes and establish traceability.
-  - Regularly update the traceability matrix.
 
-- **Days 6-8:** Functionality Testing and SRS Verification
-  - Develop test cases for website functions and execute them.
-  - Cross-reference functionalities with the SRS document.
+- **Days 6-8:** Execute Test cases and Bug tracking for V2
+  - Execute Test cases.
+  - Address defects through code changes and establish traceability.
 
-- **Days 9-11:** Validation and Finalization
-  - Validate the entire website and address any remaining issues.
-  - Ensure the website aligns with project objectives and requirements.
+- **Days 9-11:** Execute Test cases and Bug tracking for V3
+  - Adding Test cases for new functions.
+  - Execute Test cases.
+  - Making system test plan
+  - Address defects through code changes and establish traceability.
 
 - **Days 12-13:** Documentation and Final Review
+  - Execute Test cases and Bug tracking for V4.
   - Update project documentation, including this README.
   - Review all project components and prepare for submission.
 
