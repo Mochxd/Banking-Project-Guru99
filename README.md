@@ -1,6 +1,6 @@
-# Guru99 Bank Website Project
+# Guru99 Bank Demo Website Project
 
-Welcome to the Guru99 Bank Website Project repository! This project aims to create a fully functional and defect-free website for Guru99 Bank within a tight 13-day timeline. The primary goals include defect resolution, traceability, SRS verification, and thorough functionality testing.
+Welcome to the Guru99 Bank Demo Website Project repository! This project aims to create a fully functional and defect-free website for Guru99 Bank within a tight 13-day timeline. The primary goals include defect resolution, traceability, SRS verification, and thorough functionality testing.
 
 ## Table of Contents
 
